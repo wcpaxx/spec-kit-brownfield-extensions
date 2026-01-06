@@ -242,6 +242,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 - [GitHub spec-kit team](https://github.com/github/spec-kit) for the foundation
 - [spec-kit-cn](https://github.com/Linfee/spec-kit-cn) for the Chinese localization of spec-kit
 - [spec-kit-extensions](https://github.com/MartyBonacci/spec-kit-extensions) for inspiration
+- [Repomix](https://github.com/yamadashy/repomix) for code understanding and skill generation
 - Community contributors
 
 ## Support
@@ -249,6 +250,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 - **Issues**: [GitHub Issues](https://github.com/wcpaxx/spec-kit-brownfield-extensions/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/wcpaxx/spec-kit-brownfield-extensions/discussions)
 - **spec-kit**: [Original spec-kit repo](https://github.com/github/spec-kit)
+- **Repomix**: [Code understanding tool](https://github.com/yamadashy/repomix)
 
 ---
 
