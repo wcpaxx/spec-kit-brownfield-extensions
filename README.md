@@ -240,6 +240,7 @@ MIT License - See [LICENSE](LICENSE) for details.
 ## Credits
 
 - [GitHub spec-kit team](https://github.com/github/spec-kit) for the foundation
+- [spec-kit-cn](https://github.com/Linfee/spec-kit-cn) for the Chinese localization of spec-kit
 - [spec-kit-extensions](https://github.com/MartyBonacci/spec-kit-extensions) for inspiration
 - Community contributors
 
